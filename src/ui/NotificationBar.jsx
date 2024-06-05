@@ -30,7 +30,11 @@ function NotificationBar() {
     <StyledNotificationBar>
       CREATE, UPDATE and DELETE operations are disabled for this live app. Check
       here to see demo with this operations ➡️{" "}
-      <a href="https://github.com/" target="_blank" rel="noreferrer">
+      <a
+        href="https://github.com/chandnagriya/the-ooty-dreams"
+        target="_blank"
+        rel="noreferrer"
+      >
         GITHUB
       </a>
     </StyledNotificationBar>
