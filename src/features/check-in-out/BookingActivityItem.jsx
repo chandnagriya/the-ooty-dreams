@@ -20,12 +20,12 @@ const StyledBookingActivityItem = styled.li`
     border-top: 1px solid var(--color-grey-100);
   }
 
-  @media (min-width: 1600px) {
+  @media (min-width: 1601px) {
     grid-template-columns: 23rem 18rem 12rem;
   }
 
   @media (max-width: 1600px) {
-    grid-template-columns: 22rem 17rem 8rem;
+    grid-template-columns: 21.5rem 16rem 10rem;
   }
 `;
 
