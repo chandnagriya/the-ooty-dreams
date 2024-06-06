@@ -53,10 +53,9 @@ function DashboardLayout() {
           />
           <BookingActivities activities={bookings} />
           <CabinsChart cabins={cabins} bookings={bookings} />
+          <GuestsRegionChart bookings={bookings} />
         </>
       )}
-
-      <GuestsRegionChart bookings={bookings} />
     </StyledDashboardLayout>
   );
 }
